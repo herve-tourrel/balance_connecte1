@@ -28,6 +28,10 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 ![Mesure Masse](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/7_mesure_masse.png)
 ![Validation configuration](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/8_valid_config.png)
 
+## Constitution de la balance
+
+Cette balance est construite autour d'un ESP32 WROOM de chez <img width="663" alt="esp32" src="https://github.com/herve-tourrel/balance_connecte1/assets/144062443/eb6e473b-8eb0-4ec0-bf2f-6bb68e623fc9">
+basée sur une carte A7608 de chez Lilygo
 
 
 Pour la commande du composant principal voici le lien direct sur le site du fabricant.
