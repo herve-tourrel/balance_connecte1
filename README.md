@@ -23,6 +23,7 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 
 ## Images du serveur web embarqué
 
+<img width="250" class="center" alt="Accueil" src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png">
 
 ![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png)
 ![Tare](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/1_tare.png)
