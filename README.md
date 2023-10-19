@@ -10,30 +10,23 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 ## Images du serveur web embarqué
 
 
-<style>
-  .image-avec-ombre {
-    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2);
-  }
-</style>
-
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png){: .image-avec-ombre}
-<img src="[url_de_votre_image](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png)" alt="Description de l'image" style="box-shadow: 5px 5px 5px grey;">
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/1_tare.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/1_tare_reponse.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/2_calibration.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/2_calibration_rempli.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/2_calibration_rempli.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/3_nom_ruche.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/3_nom_ruche_rempli.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/3_nom_ruche_reponse.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/4_config_sms.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/4_config_sms_rempli.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/4_config_sms_reponse.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/5_test_sms.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/5_test_sms_reponse.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/6_charge_batterie.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/7_mesure_masse.png)
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/8_valid_config.png)
+![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png)
+![Tare](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/1_tare.png)
+![Tare](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/1_tare_reponse.png)
+![Calibration](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/2_calibration.png)
+![Calibration](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/2_calibration_rempli.png)
+![Calibration](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/2_calibration_rempli.png)
+![Nom ruche](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/3_nom_ruche.png)
+![Nom ruche](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/3_nom_ruche_rempli.png)
+![Nom ruche](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/3_nom_ruche_reponse.png)
+![Config SMS](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/4_config_sms.png)
+![Config SMS](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/4_config_sms_rempli.png)
+![Config SMS](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/4_config_sms_reponse.png)
+![Test SMS](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/5_test_sms.png)
+![Test SMS](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/5_test_sms_reponse.png)
+![Charge batterie](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/6_charge_batterie.png)
+![Mesure Masse](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/7_mesure_masse.png)
+![Validation config](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/8_valid_config.png)
 
 
 
