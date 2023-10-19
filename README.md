@@ -57,9 +57,9 @@ Cette carte intégre tout ce qu'il nous faut sauf le convertisseur Analogique Nu
 <img width="200" class="center" alt="A7608"  src="https://github.com/herve-tourrel/balance_connecte1/assets/144062443/3a6e936a-f305-487c-b31a-9b413b0b3f3f">
 
 Au dos de cette carte il ya un support pour la batterie LI-ion 18650, sur le devant :
-. un emplacement pour la carte SIM
-. le module A7608 comptaible 4G
-. un connecteur pour panneau solaire pour recharger la batterie
+* un emplacement pour la carte SIM
+* le module A7608 comptaible 4G
+* un connecteur pour panneau solaire pour recharger la batterie
 
 
 Pour la commande du composant principal voici le lien direct sur le site du fabricant.
