@@ -10,7 +10,9 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 ## Images du serveur web embarqué
 
 
-
+<div style="box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2);">
+  ![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png)
+</div>
 ![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png){: .shadow}
 <img src="[url_de_votre_image](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png)" alt="Description de l'image" style="box-shadow: 5px 5px 5px grey;">
 ![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/1_tare.png)
