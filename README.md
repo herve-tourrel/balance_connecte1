@@ -26,7 +26,7 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 ![Test SMS](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/5_test_sms_reponse.png)
 ![Charge batterie](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/6_charge_batterie.png)
 ![Mesure Masse](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/7_mesure_masse.png)
-![Validation config](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/8_valid_config.png)
+![Validation configuration](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/8_valid_config.png)
 
 
 
