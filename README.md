@@ -1,3 +1,8 @@
+<style>
+  .image-avec-ombre {
+    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2);
+  }
+
 .center {
   display: block;
   margin-left: auto;
@@ -5,6 +10,7 @@
   width: 50%;
 }
 
+</style>
 
 # Balance_connectée
 Encore une balance connectée pour peser nos ruches.
