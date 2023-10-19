@@ -9,6 +9,7 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 ##Images du serveur web embarqué
 
 ![Accueil](/../main/images/0_accueil.png)
+![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png)
 
 Pour la commande du composant principal voici le lien direct sur le site du fabricant.
  https://www.lilygo.cc/products/t-a7608e-h?bg_ref=ym9qhdJWHc
