@@ -1,13 +1,13 @@
-<style>
-  .image-avec-ombre {
-    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2);
-  }
 
+/* Ajoute une ombre à l'image */
+.image-avec-ombre {
+  box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Centre l'image */
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
-</style>
