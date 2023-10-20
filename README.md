@@ -1,18 +1,3 @@
-<style>
-  .image-avec-ombre {
-    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2);
-  }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-</style>
-
-<link rel="stylesheet" type="text/css" href="https://github.com/herve-tourrel/balance_connecte1/blob/main/styles.css">
 
 # Balance_connectée
 Encore une balance connectée pour peser nos ruches.
@@ -26,16 +11,12 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 ## Images du serveur web embarqué
 
 <p align="center">
-  <img src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png" alt="Accueil" style="box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2); width: 50%;" />
+  <img src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png" alt="Accueil" style="box-shadow: 5px 5px 5px 0 rgba(255, 0, 0, 0.2); width: 50%;" />
 </p>
-
-<img width="250" class="center" alt="Accueil" src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png">
-
-![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png){: .image-avec-ombre .center}
 
 
 ## Constitution de la balance
-
+<p align="center">
 Cette balance est construite autour d'un ESP32 WROOM de chez 
 
 <img width="250" class="center" alt="esp32" src="https://github.com/herve-tourrel/balance_connecte1/assets/144062443/eb6e473b-8eb0-4ec0-bf2f-6bb68e623fc9">
@@ -47,6 +28,7 @@ basée sur une carte A7608 de chez Lilygo
 Cette carte intégre tout ce qu'il nous faut sauf le convertisseur Analogique Numérique Amplificateur HX711
 
 <img width="200" class="center" alt="A7608"  src="https://github.com/herve-tourrel/balance_connecte1/assets/144062443/3a6e936a-f305-487c-b31a-9b413b0b3f3f">
+</p>
 
 Au dos de cette carte il ya un support pour la batterie LI-ion 18650 et sur le devant :
 * un emplacement pour la carte SIM
