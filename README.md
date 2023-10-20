@@ -12,6 +12,8 @@
 
 </style>
 
+<link rel="stylesheet" type="text/css" href="URL_DU_FICHIER_CSS">
+
 # Balance_connectée
 Encore une balance connectée pour peser nos ruches.
 Cette version contrairement à ce que j'ai pu trouvé sur le net est voulu entiérement paramétrable par l'utilisateur sans aucune intervension de reprogrammation du microcontroleur.
