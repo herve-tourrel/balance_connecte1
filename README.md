@@ -41,5 +41,8 @@ Au dos de cette carte il ya un support pour la batterie LI-ion 18650 et sur le d
 * un connecteur pour panneau solaire pour recharger la batterie
 
 
-Pour la commande du composant principal voici le lien direct sur le site du fabricant.
+Pour la commande du composant principal voici le lien direct sur le site du fabricant:
+
+<p align="center">
  https://www.lilygo.cc/products/t-a7608e-h?bg_ref=ym9qhdJWHc
+ </p>
