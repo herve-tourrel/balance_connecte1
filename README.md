@@ -12,7 +12,7 @@
 
 </style>
 
-<link rel="stylesheet" type="text/css" href="URL_DU_FICHIER_CSS">
+<link rel="stylesheet" type="text/css" href="[URL_DU_FICHIER_CSS](https://github.com/herve-tourrel/balance_connecte1/blob/main/styles.css)">
 
 # Balance_connectée
 Encore une balance connectée pour peser nos ruches.
