@@ -18,15 +18,20 @@ Le site web embarqué n'est accessible que proche de la balance et à condition 
 ## Constitution de la balance
 <p align="center">
 Cette balance est construite autour d'un ESP32 WROOM de chez 
-
+</p>
+<p align="center">
 <img width="250" class="center" alt="esp32" src="https://github.com/herve-tourrel/balance_connecte1/assets/144062443/eb6e473b-8eb0-4ec0-bf2f-6bb68e623fc9">
-
+</p>
+<p align="center">
 basée sur une carte A7608 de chez Lilygo
-
+</p>
+<p align="center">
  <img width="200" class="center" alt="A7608"  src="https://www.lilygo.cc/cdn/shop/files/LILYGO-DEVELOPMENT-BOARDS_3.jpg?v=1683355413">
-
+</p>
+<p align="center">
 Cette carte intégre tout ce qu'il nous faut sauf le convertisseur Analogique Numérique Amplificateur HX711
-
+</p>
+<p align="center">
 <img width="200" class="center" alt="A7608"  src="https://github.com/herve-tourrel/balance_connecte1/assets/144062443/3a6e936a-f305-487c-b31a-9b413b0b3f3f">
 </p>
 
