@@ -40,13 +40,13 @@ Au dos de cette carte il ya un support pour la batterie LI-ion 18650 et sur le d
 * le module A7608 compatible 4G
 * un connecteur pour panneau solaire pour recharger la batterie
 
-Pour la commande du composant principal voici le lien direct sur le site du fabricant:
+**Pour la commande du composant principal voici le lien direct sur le site du fabricant:**
 
 <p align="center">
 https://www.lilygo.cc/products/t-a7608e-h?bg_ref=ym9qhdJWHc
 </p>
 
-Pour les connecteurs :
+**Pour les connecteurs :**
 
  https://fr.aliexpress.com/item/1005003084329744.html
  
@@ -56,7 +56,7 @@ Pour les connecteurs :
  * un 3P pour la configuration et l'anti-soulévement ( Attention il faut 2 connecteurs male pour une balance ( un seul suplémentaires pour la configuration de plusieurs balances)
  * un 5P pour la connection aux pont de mesure de masse
 
-Pour le boitier :
+**Pour le boitier :**
 
  https://fr.aliexpress.com/item/1005001304761174.html
  
