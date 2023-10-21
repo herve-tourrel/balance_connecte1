@@ -47,7 +47,9 @@ https://www.lilygo.cc/products/t-a7608e-h?bg_ref=ym9qhdJWHc
 </p>
 
 Pour les connecteurs :
- https://fr.aliexpress.com/item/1005003084329744.html?spm=a2g0o.order_list.order_list_main.9.1c615e5bvucHbi&gatewayAdapt=glo2fra
+
+ https://fr.aliexpress.com/item/1005003084329744.html
+ 
  Il faut prendre la "couleur" : back nut  qui correspond au montage dans un trou de 13mm.
  Il faut ensuite prendre :
  * un 2P pour le panneau solaire extérieur
@@ -55,7 +57,9 @@ Pour les connecteurs :
  * un 5P pour la connection aux pont de mesure de masse
 
 Pour le boitier :
+
  https://fr.aliexpress.com/item/1005001304761174.html?spm=a2g0o.order_list.order_list_main.30.1c615e5bvucHbi&gatewayAdapt=glo2fra
+ 
  Boîte de boîtier étanche transparente en plastique, boîte de projet électronique, boîte de projet électrique extérieur, IP67
  Taille : with ears
  Couleur : 200-120-75 (Taille)
