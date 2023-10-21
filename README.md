@@ -58,7 +58,7 @@ Pour les connecteurs :
 
 Pour le boitier :
 
- https://fr.aliexpress.com/item/1005001304761174.html?spm=a2g0o.order_list.order_list_main.30.1c615e5bvucHbi&gatewayAdapt=glo2fra
+ https://fr.aliexpress.com/item/1005001304761174.html
  
  Boîte de boîtier étanche transparente en plastique, boîte de projet électronique, boîte de projet électrique extérieur, IP67
  Taille : with ears
