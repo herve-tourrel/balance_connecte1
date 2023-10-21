@@ -60,6 +60,6 @@ Pour le boitier :
 
  https://fr.aliexpress.com/item/1005001304761174.html
  
- Boîte de boîtier étanche transparente en plastique, boîte de projet électronique, boîte de projet électrique extérieur, IP67
+Boîtier étanche transparent en plastique IP67
  * Taille : with ears
  * Couleur : 200-120-75 (Taille)
