@@ -66,9 +66,12 @@ Boîtier étanche transparent en plastique IP67
 
 **Le prototype :**
 
+<p align="center">
+<img width="400" class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/proto.png">
+</p>
 
 **Le schéma du module de pesage :**
 <p align="center">
-<img width="200" class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/Schema_balance.drawio.png">
+<img width="400" class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/Schema_balance.drawio.png">
 </p>
 
