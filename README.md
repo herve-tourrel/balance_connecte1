@@ -63,3 +63,12 @@ https://www.lilygo.cc/products/t-a7608e-h?bg_ref=ym9qhdJWHc
 Boîtier étanche transparent en plastique IP67
  * Taille : with ears
  * Couleur : 200-120-75 (Taille)
+
+**Le prototype :**
+
+
+**Le schéma du module de pesage :**
+<p align="center">
+<img width="200" class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/Schema_balance.drawio.png">
+</p>
+
