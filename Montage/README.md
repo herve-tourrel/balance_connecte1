@@ -3,6 +3,7 @@
 
 ## Montage de la balance.
 Le montage du pont de mesure ne sera pas expliqué ici, chacun prendra la solution qui lui convient le mieux en fonction de ses talents de bricoleur.
+Mais plus bas il y aura les solutions testées.
 
 
 
