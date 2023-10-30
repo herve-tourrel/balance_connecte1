@@ -28,3 +28,20 @@ Pour la commande du composant principal voici le lien direct sur le site du fabr
 <p align="center">
 <img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs.drawio.png">
 </p>
+
+**Les connecteurs extérieurs :**
+<p align="center">
+<img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs_3_min2.png">
+</p>
+
+**Les connecteurs extérieurs :**
+<p align="center">
+<img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs_min2.png">
+</p>
+
+**Le support de la platine principale :**
+<p align="center">
+<img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/baignoire_min2.png">
+</p>
+
+
