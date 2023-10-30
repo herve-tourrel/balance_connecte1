@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:,">
+  <title>Balance connectée - Configuration SMS</title>
+  <script language="javascript">
+
+function BinDec()
+{
+var b='';
+for (n=1; n<14; n++)
+{
+ if (document.forms.PRINCI.elements['H'+n].checked) b='1'+b; else b='0'+b;
+}
+document.forms.PRINCI.horaire_sms.value=parseInt(b,2);
+}
+
+function disableH1ToH13() {
+      for (n = 1; n < 14; n++) {
+          document.forms.PRINCI.elements['H' + n].disabled = true;
+       }
+    }
+  </script>
+  
+</head>
+<body>
+  <h1>Balance connectée - Configuration SMS</h1>
+  <form name="PRINCI" method="post" action="/config_sms">
+  </h2>
+    <label for="numero_telephone">Numéro de téléphone :</label>
+    <input type="text" name="numero_telephone" placeholder="+33612345678" id="numero_telephone">
+    <br>
+	</h3>pour recevoir les données
+	<br>
+	<br>
+	<label for="code_pin">Code PIN :</label>
+    <input type="text" placeholder="0000" name="code_pin" id="code_pin">
+    <br>
+	<label for="apn">APN de votre fournisseur de services :</label>
+    <input type="text" placeholder="Free" name="apn" id="apn">
+    <br>
+	</h3>de la sim de la ruche 
+	<h3>Heure d'envoi du SMS de pesage</h3>
+
+	 <br>
+		<input TYPE="checkbox" NAME="H1" OnClick="BinDec()" >7 h
+		<input TYPE="checkbox" NAME="H2" OnClick="BinDec()" >8 h
+		<input TYPE="checkbox" NAME="H3" OnClick="BinDec()" >9 h
+		<input TYPE="checkbox" NAME="H4" OnClick="BinDec()" >10 h
+		<input TYPE="checkbox" NAME="H5" OnClick="BinDec()" >11 h	  
+		<input TYPE="checkbox" NAME="H6" OnClick="BinDec()" >12 h
+		<input TYPE="checkbox" NAME="H7" OnClick="BinDec()" >13 h
+		<input TYPE="checkbox" NAME="H8" OnClick="BinDec()" >14 h
+		<input TYPE="checkbox" NAME="H9" OnClick="BinDec()" >15 h
+		<input TYPE="checkbox" NAME="H10" OnClick="BinDec()" >16 h
+		<input TYPE="checkbox" NAME="H11" OnClick="BinDec()" >17 h
+		<input TYPE="checkbox" NAME="H12" OnClick="BinDec()" >18 h
+		<input TYPE="checkbox" NAME="H13" OnClick="BinDec()" >19 h
+	 <br>
+	 <label for="horaire_sms">Code horaire : </label>
+		<!-- <input type="text" name="horaire_sms" id="horaire_sms" size="13" value="0"> -->
+		<input type="hidden" name="horaire_sms" id="horaire_sms" size="13" value="0">
+	<br>  
+    <input type="submit" value="Enregistrer" onClick="disableH1ToH13()">
+
+  <li><a href="/">Accueil</a></li>
+</body>
+</html>

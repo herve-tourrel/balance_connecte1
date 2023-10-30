@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="style.css">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:,">
+  <title>Balance connectée - Calibration</title>
+</head>
+<body>
+  <h1>Balance connectée - Calibration</h1>
+  <p> Placer une masse étalon sur la cellule de charge <p>
+  <form method="post" action="/calibration">
+    <label for="calibration_weight">Poids de la masse étalon :</label>
+    <input type="number"  placeholder="en gr" min="0" max="100000" name="calibration_weight" id="calibration_weight">
+    <br>
+    <input type="submit" value="Enregistrer">
+  </form>
+  <li><a href="/">Accueil</a></li>
+</body>
+</html>
