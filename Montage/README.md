@@ -23,6 +23,7 @@ Pour la commande du composant principal voici le lien direct sur le site du fabr
 <p align="center">
 <img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/Schema_balance.drawio.png">
 </p>
+
 **Le schéma du câblage des connecteurs extérieurs :**
 <p align="center">
 <img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs.drawio.png">
