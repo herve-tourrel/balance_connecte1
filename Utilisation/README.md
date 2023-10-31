@@ -3,6 +3,12 @@ Pour utiliser la balance , la premiére des choses est de la paramétrer par le 
 
 Le "Bouchon Paramétrage" , connecteur mâle à 3 broches modifiés permet de lancer le réseau Wifi et le serveur Web. 
 
+**Le câblage du bouchon de paramétrage :**
+
+<p align="center">
+<img  class="center" alt="Bouchon"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/Bouchon_parametrage.drawio.png">
+</p>
+
 Il faut dans un premier temps se connecter au réseau Wifi créé par la balance :
 Pour aider à la connexion on peut utiliser ce QR code.
 
