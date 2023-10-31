@@ -31,23 +31,31 @@ Pour la commande du composant principal voici le lien direct sur le site du fabr
 
 **Les connecteurs extérieurs :**
 <p align="center">
-<img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs_3_min2.png">
+<img  class="center" alt="connecteurs"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs_3_min2.png">
 </p>
 
 **Les connecteurs extérieurs :**
 <p align="center">
-<img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs_min2.png">
+<img  class="center" alt="connecteurs"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/connecteurs_min2.png">
 </p>
 
 **Les connecteurs extérieurs :**
 <p align="center">
-<img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/Boite_connecteurs.drawio.png">
+<img  class="center" alt="connecteurs"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/Boite_connecteurs.drawio.png">
 </p>
+
+**Les connecteurs extérieurs perçage :**
+<p align="center">
+<img  class="center" alt="connecteurs"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/per%C3%A7age.drawio.png">
+</p>
+
 
 **Le support de la platine principale dit "La baignoire" :**
 <p align="center">
 <img  class="center" alt="Schema"  src="https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/baignoire_min2.png">
 </p>
+
+"La baignoire" est simplement collée avec de la colle PVC pour tuyau au fond du boitier. 
 
 Le lien de téléchargement du fichier STL de ["La baignoire"](https://github.com/herve-tourrel/balance_connecte1/blob/main/Fichiers/stl/piece%20lilygo.STL).
 
