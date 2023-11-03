@@ -34,6 +34,11 @@ Attention il faut souvent enlever les données mobiles pour pouvoir se connecter
 ![Accueil](https://github.com/herve-tourrel/balance_connecte1/blob/main/Images/0_accueil.png)
 
 
+## Vidéo de configuration de la balance connectée 
+
+
+
+
 
 
 
