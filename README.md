@@ -54,7 +54,7 @@ https://www.lilygo.cc/products/t-a7608e-h?bg_ref=ym9qhdJWHc
  Il faut ensuite prendre :
  * un 2P pour le panneau solaire extérieur
  * un 3P pour la configuration et l'anti-soulévement ( Attention il faut 2 connecteurs male pour une balance ( un seul suplémentaires pour la configuration de plusieurs balances)
- * un 5P pour la connection aux pont de mesure de masse
+ * un 5P pour la connection au pont de mesure de masse
 
 **Pour le boitier :**
 
