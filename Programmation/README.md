@@ -12,6 +12,10 @@ Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/sup
 
  en cours de construction .
 
+ <esp-web-install-button 
+  manifest="https://firmware.esphome.io/esphome-web/manifest.json" 
+></esp-web-install-button>
+
 
 
 
