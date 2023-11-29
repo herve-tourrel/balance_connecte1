@@ -11,7 +11,7 @@ Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/sup
 
  en cours de construction .
  
-Pour programmer directement à partir de la page Web[Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
+Pour programmer directement à partir de la page Web[ Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
 
 
 
