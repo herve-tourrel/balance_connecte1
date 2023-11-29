@@ -9,6 +9,7 @@ Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/sup
   src="https://unpkg.com/esp-web-tools@9/dist/web/install-button.js?module" 
 ></script>
 
+[Lien vers la page de programmation] (https://herve-tourrel.github.io/balance_connecte1/flash.html)
 
  en cours de construction .
 
