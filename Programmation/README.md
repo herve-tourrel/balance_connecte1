@@ -22,16 +22,19 @@ Pour programmer directement à partir de la page Web[ Lien vers la page de progr
 ## Utilisation d'ESP Web Tools
 
 Bienvenue dans ESP Web Tools ! Vous pouvez accéder à l'outil directement en suivant [ce lien vers la démo en ligne](lien-vers-la-demo). Assurez-vous de consulter les instructions ci-dessous pour savoir comment utiliser l'outil de manière efficace.
+Attention je n'ai pas trouvé comment flasher les pages web avec cet outil.
+
+
+## Utilisation d'ESP Tool
 
 ### Instructions
 
-1. ...
+1. Copier la totalité du dossier test dans un répertoire de votre poste de travail.
+2. Ouvrer la page web[ ESP Tool ](https://espressif.github.io/esptool-js/)
+3. Connecter votre carte à votre poste de travail
+4. Puis appuyez sur connect
 
-2. ...
-
-3. ...
-
-
+5. ...
 
 
 
