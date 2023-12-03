@@ -37,12 +37,18 @@ Attention je n'ai pas trouvé comment flasher les pages web avec cet outil.
 5. Choisissez le bon port de communication, pour moi ici le 17 :           ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/2efa2ec0-651b-4e2a-bce9-749b10b1c930)
 6. Puis appuyez sur connexion :                                            ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/da431ba4-56e7-4a82-bbc2-91d04bb4fe29)
 7. Vous devez voir dans la console (partie en noir) quelque chose comme ça :![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/9a63b94d-cc95-43c1-ab97-0800107b0a9c)
+8.En plus du premier fichier proposeé il faut ajouter 4 autres fichier en cliquant sur le bouton Add File ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/8d28af4d-b37b-4658-9a69-45b6d61bc9db)
+9. Vous devez obtenir ceci, attention à bien remplir la case Flash Adress pour chacuns des fichiers.![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/e08734c8-428b-4b97-ac72-8a9f75df1508)
+10. Ensuite vous pouvez appuyer sur le bouton Program à coté de Add File
+
+
+  
 
  
  
 
 
-10. ...
+11. ...
 
 
 
