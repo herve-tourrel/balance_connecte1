@@ -30,14 +30,14 @@ Attention je n'ai pas trouvé comment flasher les pages web avec cet outil.
 
 ### Instructions
 
-1. Copiez la totalité du dossier test dans un répertoire de votre poste de travail.
+1. Copiez la totalité du dossier **test** dans un répertoire de votre poste de travail.
 2. Ouvrez la page web[ ESP Tool ](https://espressif.github.io/esptool-js/)
 3. Connectez votre carte à votre poste de travail
 4. Puis appuyez sur **Connect** :<center>![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/d51613bc-6ea6-45ad-b92c-85ecc871752c)</center>
 5. Choisissez le bon port de communication, pour moi ici le 17 :           ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/2efa2ec0-651b-4e2a-bce9-749b10b1c930)
 6. Puis appuyez sur **Connexion** :                                            ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/da431ba4-56e7-4a82-bbc2-91d04bb4fe29)
 7. Vous devez voir dans la console (partie en noir) quelque chose comme ça :![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/9a63b94d-cc95-43c1-ab97-0800107b0a9c)
-8. En plus du premier fichier proposé il faut ajouter 4 autres fichiers en cliquant sur le bouton Add File ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/8d28af4d-b37b-4658-9a69-45b6d61bc9db)
+8. En plus du premier fichier proposé il faut ajouter 4 autres fichiers en cliquant sur le bouton Add File. C'est les fichiers que vous avez copiés sur votre poste de travail. ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/8d28af4d-b37b-4658-9a69-45b6d61bc9db)
 9. Vous devez obtenir ceci, attention à bien remplir la case Flash Adress pour chacuns des fichiers.![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/e08734c8-428b-4b97-ac72-8a9f75df1508)
 10. Ensuite vous pouvez appuyer sur le bouton **Program** à coté de Add File. Vous devriez voir dans la console quelque chose comme ça :![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/4f4d8de0-e4cd-4a33-9b3e-d53b9c0514c7)
 11. Une fois la programmation terminée, vous devez vous deconnecter du mode programmation avec le bouton **Disconnect** : ![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/0ddb7f85-044a-4c4f-adf6-f97fca030f09)
