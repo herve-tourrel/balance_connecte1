@@ -1,5 +1,4 @@
-# en cours de construction .
- 
+
 # Programmation :
 
 Deux maniéres de faire :
