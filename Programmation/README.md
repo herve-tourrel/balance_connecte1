@@ -1,9 +1,5 @@
 # en cours de construction .
  
-Pour programmer la balance on pourra utiliser l'outil logiciel de chez Expressif.
-
-Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/support/download/other-tools).
-
 # Programmation :
 
 Deux maniéres de faire :
@@ -32,7 +28,9 @@ Pour programmer directement à partir de la page Web[ Lien vers la page de progr
 14. Il faut ensuite faire un **Reset** :![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/ce2a4bfa-072d-4b44-889b-2481a67d11a1)
 15. Dans la console maintenant vous devriez voir quelque chose comme ça :![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/9aad231a-dc97-4558-8501-fb19595dfca6)
 
+## 3 Derniére solution.
 
+Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/support/download/other-tools).
 
 
 
