@@ -6,7 +6,13 @@ Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/sup
 
 # Programmation :
 
-## Utilisation d'ESP Tool
+Deux maniéres de faire :
+
+##  1 Utilisation d'ESP Web Tools
+
+Pour programmer directement à partir de la page Web[ Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
+
+## 2 Utilisation d'ESP Tool
 
 ### Instructions
 
@@ -28,16 +34,7 @@ Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/sup
 
 
 
- 
-Pour programmer directement à partir de la page Web[ Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
 
-
-## Utilisation d'ESP Web Tools
-
-Pour programmer directement à partir de la page Web[ Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
-
-Bienvenue dans ESP Web Tools ! Vous pouvez accéder à l'outil directement en suivant [ce lien vers la démo en ligne](lien-vers-la-demo). Assurez-vous de consulter les instructions ci-dessous pour savoir comment utiliser l'outil de manière efficace.
-Attention je n'ai pas trouvé comment flasher les pages web avec cet outil.
 
 
 
