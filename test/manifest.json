@@ -5,7 +5,7 @@
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "target.bin", "offset": 0000 }
+        { "path": "target.bin", "offset": 0x0000 }
       ]
     },
     {
