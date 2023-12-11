@@ -6,7 +6,9 @@
     <h1>Attention fait la mise à jour du logiciel et des pages web, il faut ensuite reconfigurer la balance</h1>   
    
     <script type="module" src="https://unpkg.com/esp-web-tools@9/dist/web/install-button.js?module"></script>
-    <esp-web-install-button manifest="test/manifest.json"></esp-web-install-button>
+    <esp-web-install-button manifest="test/manifest.json">
+        <button slot="activate">Custom install button</button>
+    </esp-web-install-button>
 
 
 </body>
