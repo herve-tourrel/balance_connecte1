@@ -3,11 +3,14 @@
 <body>
     <h1>ESP-Web-Tool</h1>
     <h1>Programmation de la balance connectée pour ruche</h1>
-    <h1>Attention ne fait que la mise à jour du logiciel et pas des pages web</h1>   
+    <h1>Attention fait la mise à jour du logiciel et des pages web, il faut ensuite reconfigurer la balance</h1>   
    
     <script type="module" src="https://unpkg.com/esp-web-tools@9/dist/web/install-button.js?module"></script>
-    <esp-web-install-button manifest="test/manifest.json"></esp-web-install-button>
+    <esp-web-install-button manifest="test/manifest.json">
+        <button slot="activate">Installation du Firmware de la balance connectée</button>
+    </esp-web-install-button>
 
+    <h2>Dans les pages suivantes après avoir choisi votre port de communication "Com..", il faut cliquer sur ESPHome dans la seconde fenêtre pour installer le firmware de la ruche connectée. </h2>
 
 </body>
 </html>

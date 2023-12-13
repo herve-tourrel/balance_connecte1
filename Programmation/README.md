@@ -1,12 +1,13 @@
-# en cours de construction .
- 
-Pour programmer la balance on pourra utiliser l'outil logiciel de chez Expressif.
-
-Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/support/download/other-tools).
 
 # Programmation :
 
-## Utilisation d'ESP Tool
+Deux maniéres de faire :
+
+##  1 Utilisation d'ESP Web Tools
+
+Pour programmer directement à partir de la page Web[ Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
+
+## 2 Utilisation d'ESP Tool
 
 ### Instructions
 
@@ -26,18 +27,11 @@ Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/sup
 14. Il faut ensuite faire un **Reset** :![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/ce2a4bfa-072d-4b44-889b-2481a67d11a1)
 15. Dans la console maintenant vous devriez voir quelque chose comme ça :![image](https://github.com/herve-tourrel/balance_connecte1/assets/144062443/9aad231a-dc97-4558-8501-fb19595dfca6)
 
+## 3 Derniére solution.
+
+Téléchargez le logiciel [Flash Download Tool](https://www.espressif.com/en/support/download/other-tools).
 
 
- 
-Pour programmer directement à partir de la page Web[ Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
-
-
-## Utilisation d'ESP Web Tools
-
-Pour programmer directement à partir de la page Web[ Lien vers la page de programmation](https://herve-tourrel.github.io/balance_connecte1/flash.html).
-
-Bienvenue dans ESP Web Tools ! Vous pouvez accéder à l'outil directement en suivant [ce lien vers la démo en ligne](lien-vers-la-demo). Assurez-vous de consulter les instructions ci-dessous pour savoir comment utiliser l'outil de manière efficace.
-Attention je n'ai pas trouvé comment flasher les pages web avec cet outil.
 
 
 
